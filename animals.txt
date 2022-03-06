@@ -1,5 +1,5 @@
 cat
-tiger
+liger
 lion
 zebra
 zankar
