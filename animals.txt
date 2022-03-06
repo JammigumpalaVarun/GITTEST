@@ -1,11 +1,16 @@
 cat
-<<<<<<< HEAD
+
 pig
-=======
+
 liger
->>>>>>> master
+
 lion
 zebra
 zankar
 shankar
+
 hiiiii
+nakka
+bokka tokka
+
+
