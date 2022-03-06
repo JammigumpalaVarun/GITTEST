@@ -12,5 +12,6 @@ nakka
 bokka tokka
 sanka nakipovadam
 sare
+sankesh
 
 
